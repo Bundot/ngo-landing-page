@@ -1,0 +1,33 @@
+.hero {
+  position: relative;
+  height: 100vh;
+  background: 
+    url('./../img1.jpg') no-repeat center center/cover,
+    url('./../img1.jpg') no-repeat center center/cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  text-align: center;
+}
+  
+  .hero-overlay {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+  }
+  
+  .donate-btn {
+    background-color: #ff7e67;
+    padding: 10px 20px;
+    color: white;
+    font-size: 1.2rem;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background 0.3s ease;
+  }
+  
+  .donate-btn:hover {
+    background-color: #e56d5b;
+  }
+  

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ngo-landing-page/static/css/main.7b85e0df.css",
+    "main.js": "/ngo-landing-page/static/js/main.4bbf27b7.js",
+    "static/js/453.0c66eb39.chunk.js": "/ngo-landing-page/static/js/453.0c66eb39.chunk.js",
+    "static/media/img1.jpg": "/ngo-landing-page/static/media/img1.d9b7bcf406014890f883.jpg",
+    "index.html": "/ngo-landing-page/index.html",
+    "main.7b85e0df.css.map": "/ngo-landing-page/static/css/main.7b85e0df.css.map",
+    "main.4bbf27b7.js.map": "/ngo-landing-page/static/js/main.4bbf27b7.js.map",
+    "453.0c66eb39.chunk.js.map": "/ngo-landing-page/static/js/453.0c66eb39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b85e0df.css",
+    "static/js/main.4bbf27b7.js"
+  ]
+}
